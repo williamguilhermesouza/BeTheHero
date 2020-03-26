@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-import Constants from 'expo-constants;'
+import Constants from 'expo-constants';
 
 export default StyleSheet.create({
     container: {
@@ -33,7 +33,7 @@ export default StyleSheet.create({
 
     description: {
         fontSize: 16,
-        linHeight: 24,
+        lineHeight: 24,
         color: '#737380'
     },
 
