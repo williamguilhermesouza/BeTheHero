@@ -11,6 +11,10 @@ Além destes também foi usado o nodemon como dependência de desenvolvimento.
 
 O Banco de Dados utilizado foi o BD relacional Sqlite3 através do Knex, podendo facilmente ser escalado para um banco mais complexo como o postgreSQL. Ele foi usado localmente, utilizado em conjunto com migrations da biblioteca knex.
 
+As validações para acesso fora feitas utilizando o celebrate, um middleware para a biblioteca express.
+
+Os testes foram realizados utilizando o Jest.
+
 ![backend](https://raw.githubusercontent.com/williamguilhermesouza/omnistack11/master/screenshots/back_routes.png)
 
 ## **Web**
