@@ -1,4 +1,4 @@
-# Código da Semana de treinamento omnistack com uso das Tecnologias Node.js, React e React Native
+# Projeto Be The Hero
 
 ## **Finalidade**
 Criar uma aplicação completa (backend, web e mobile) com o objetivo de ser uma aplicação para
